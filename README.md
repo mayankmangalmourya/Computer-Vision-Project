@@ -28,6 +28,15 @@ You may also notice that the vehicles will initially be detected and the counter
  - Pycham.
 ## Author : 
  - Mayank Mangal Mourya
+ - Rajan Kumar
+ - Abhishek kumar
+ - Sagar deware
+ - Raja Safi
+ 
 ### Contact : 
 - 202051116@iiitvadodara.ac.in
+- 202051003@iiitvadodara.ac.in
+- 202051151@iiitvadodara.ac.in
+- 202051166@iiitvadodara.ac.in
+- 202051152@iiitvadodara.ac.in
    
